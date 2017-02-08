@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyToDoApp</string>
+    <string name="infotouser">Hello user!!Your Schedule have been listed successfully</string>
+</resources>
